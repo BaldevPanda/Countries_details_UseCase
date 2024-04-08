@@ -1,0 +1,6 @@
+server:
+  port: 8082
+  
+api:
+  base:
+    url: https://restcountries.com/v3.1/
